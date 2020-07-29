@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const config = require("./config.json");
 
-const senha = 'NzM2MzQyMjEzMjg1NjQyMzMw.XxtaIA.EfOsoZk2j4ErNnEe38z0OofhSyE';
+const senha = 'censured kkk';
 
 bot.login(senha)
 bot.on('ready',  () => {
