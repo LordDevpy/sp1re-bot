@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const config = require("./config.json");
+const config = require("./config.json"); // esquece isso daqui pq a gnt nem usa mais esse config.json, vou tirar dps
 
 const senha = 'censured kkk';
 
